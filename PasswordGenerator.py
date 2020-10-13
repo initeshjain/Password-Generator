@@ -2,7 +2,7 @@ import string
 import random
 import tkinter
 import pandas as pd
-import csv
+#import csv
 
 # BACKEND
 def Close():
